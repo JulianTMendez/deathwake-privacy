@@ -1,13 +1,13 @@
 ---
-title: Deathwake Privacy Policy
+title: Deadwake Privacy Policy
 ---
 
-# Deathwake — Privacy Policy
+# Deadwake — Privacy Policy
 
 **Last updated:** 22 September 2026
-**Applies to:** the Deathwake Android application (`com.monkforge.zombies`)
+**Applies to:** the Deadwake Android application (`com.monkforge.zombies`)
 
-Deathwake is a free, independent zombie-survival game. This policy explains
+Deadwake is a free, independent zombie-survival game. This policy explains
 exactly what the app does and does not do with information about you.
 
 **In short:** the app has no accounts of its own, ads, analytics, or in-app
@@ -48,7 +48,7 @@ handled entirely by Google.
 
 Solo play is entirely offline. If you host or join an online game:
 
-- **Your IP address is shared with the other players in that game.** Deathwake
+- **Your IP address is shared with the other players in that game.** Deadwake
   connects players directly to each other (peer-to-peer). This is unavoidable
   for direct connections and is how nearly all peer-to-peer games work.
 - **Your local network address is also shared** with the other players in the
@@ -64,7 +64,7 @@ Solo play is entirely offline. If you host or join an online game:
   game, and to anyone browsing the public server list if you choose to make your
   game public. Games are **private by default**.
 
-**Online traffic is not encrypted.** Deathwake uses plain peer-to-peer
+**Online traffic is not encrypted.** Deadwake uses plain peer-to-peer
 networking, so anyone able to observe your network could see chat messages and
 player names in transit. Do not share anything sensitive in game chat. A lobby
 password, if you set one, controls who may join — it does not encrypt anything.
@@ -104,7 +104,7 @@ from the name alone; we will review removal requests case by case.
 
 ## 4. Google Play Games (optional)
 
-If your device has Google Play Games and you are signed in to it, Deathwake
+If your device has Google Play Games and you are signed in to it, Deadwake
 uses it automatically; you can also sign in from the Achievements or
 Leaderboards section of Progression. The game plays exactly the same without it.
 
@@ -125,7 +125,7 @@ email address, player ID, or backup, and none of it is sent to our leaderboard
 service. Google handles it under the
 [Google Privacy Policy](https://policies.google.com/privacy). You can sign out,
 change who sees your Play Games profile, or delete your Play Games data for
-Deathwake (including the backup) in the Google Play Games app.
+Deadwake (including the backup) in the Google Play Games app.
 
 ---
 
@@ -147,7 +147,7 @@ choose and nothing else.
 
 ## 6. Children
 
-Deathwake depicts combat against zombies and is not directed at children. We do
+Deadwake depicts combat against zombies and is not directed at children. We do
 not knowingly collect information from children under 13 (or the equivalent age
 in your country). The optional leaderboard feature may hold the data described
 above if posting is enabled.
@@ -183,6 +183,6 @@ juliantmendez2004@gmail.com
 
 ## 10. Attribution
 
-Deathwake is an unofficial adaptation of *Nazi Zombies: Portable* and is not
+Deadwake is an unofficial adaptation of *Nazi Zombies: Portable* and is not
 endorsed by the NZ:P team, Activision, Treyarch, or the FTEQW project.
 Licensing and source-code availability notices are included with the app.
